@@ -7,9 +7,6 @@
 
 > **Project status: Alpha · Source only**
 > BreezePic currently does not provide an official DMG or other prebuilt binary. Build it locally with Xcode.
-
-## 中文
-
 BreezePic 是一个使用 SwiftUI、AppKit、Core Image 和 PhotoKit 开发的原生 macOS 看图工具。它可以浏览文件夹中的图片、读取本机系统照片、完成常用编辑，并将当前图片设置为桌面背景。
 
 项目坚持本地优先：不上传图片，不主动下载 iCloud 原图，编辑过程也不会覆盖原文件。
